@@ -3,6 +3,10 @@
 }
 .u-margin-bottom-small {
   margin-bottom: 1.5rem !important;
+
+  @include respond(phone) {
+    margin-bottom: 1rem !important; 
+} 
 }
 .u-margin-bottom-medium {
   margin-bottom: 4rem !important; 
