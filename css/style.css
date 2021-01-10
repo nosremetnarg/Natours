@@ -722,7 +722,6 @@ body {
     margin-bottom: 8rem; }
     @media (max-width: 56.25em) {
       .footer__logo-box {
-        max-width: 50rem;
         margin-bottom: 4rem; } }
   .footer__logo {
     width: 15rem;

@@ -12,7 +12,7 @@
         margin-bottom: 8rem;
 
         @include respond(tab-port) {
-            max-width: 50rem;
+            // max-width: 50rem;
             margin-bottom: 4rem;
         }
     }
