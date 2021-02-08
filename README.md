@@ -3,7 +3,7 @@
 
 ## Table of Contents
   - [Description](#description)
-  - [Live Link](#live link)
+  - [Live Link](#live-link)
   - [Screenshot](#screenshot)
   - [Built With](#built-with)
   - [Contributing](#contributing)
