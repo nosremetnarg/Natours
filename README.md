@@ -1,5 +1,5 @@
 ## Natours Travel Website
-![coffee](https://img.shields.io/badge/-HTML-red)
+![badge](https://img.shields.io/badge/-HTML-red) ![badge](https://img.shields.io/badge/-SASS-pink) ![badge](https://img.shields.io/badge/-CSS-blue)
 
 ## Table of Contents
   - [Description](#description)
@@ -9,7 +9,7 @@
   - [Contributing](#contributing)
 
 ## Description
-Natours website
+Natours is a travel website where customers can book various vacations
 
 ### [Live Link](https://nosremetnarg.github.io/Natours/) ###
 
@@ -19,7 +19,8 @@ Natours website
 ![Screenshot of live site](/img/previewImage3.png)
 ![Screenshot of live site](/img/previewImage4.png)
 
-
+## Built With
+HTML, CSS, and SASS
 
 ## Contributing
 Grant Emerson
